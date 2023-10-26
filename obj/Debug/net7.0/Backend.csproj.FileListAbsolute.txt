@@ -1,0 +1,117 @@
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\Backend.csproj.AssemblyReference.cache
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\Backend.AssemblyInfoInputs.cache
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\Backend.AssemblyInfo.cs
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\bin\Debug\net7.0\appsettings.json
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\bin\Debug\net7.0\Backend.exe
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\bin\Debug\net7.0\Backend.deps.json
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\bin\Debug\net7.0\Backend.runtimeconfig.json
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\bin\Debug\net7.0\Backend.dll
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\bin\Debug\net7.0\Backend.pdb
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\staticwebassets\msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.Backend.props
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Backend.props
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Backend.props
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\scopedcss\bundle\Backend.styles.css
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\Backend.csproj.CopyComplete
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\Backend.dll
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\refint\Backend.dll
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\Backend.pdb
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\Backend.genruntimeconfig.cache
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\obj\Debug\net7.0\ref\Backend.dll
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MrKing\Desktop\ATLG\Development\Reddit Clone Using dotnet 7 and Angular\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\appsettings.json
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Backend.exe
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Backend.deps.json
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Backend.runtimeconfig.json
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Backend.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Backend.pdb
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Humanizer.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Scrutor.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\Backend.csproj.AssemblyReference.cache
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\Backend.AssemblyInfoInputs.cache
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\Backend.AssemblyInfo.cs
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\staticwebassets\msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.Backend.props
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Backend.props
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Backend.props
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\scopedcss\bundle\Backend.styles.css
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\Backend.csproj.CopyComplete
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\Backend.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\refint\Backend.dll
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\Backend.pdb
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\Backend.genruntimeconfig.cache
+C:\Users\MrKing\Desktop\ATLG\Development\reddit-clone\Backend\obj\Debug\net7.0\ref\Backend.dll
